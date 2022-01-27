@@ -2,6 +2,7 @@
 HTML Foundations Project from Odin
 
 Assignment
+
 Iteration 1: Initial structure
 
     Within the odin-recipes directory, create an index.html file.
